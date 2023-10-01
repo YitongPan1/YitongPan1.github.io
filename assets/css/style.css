@@ -1091,6 +1091,11 @@ section {
   text-align: center;
 }
 
+#footer .count {
+  padding-top: 5px;
+  text-align: center;
+}
+
 #footer .credits {
   padding-top: 5px;
   text-align: center;
